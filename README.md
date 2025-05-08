@@ -5,7 +5,8 @@ Here's a complete, professional, and impactful `README.md` for your **Hope Horiz
 # 🌟 Hope Horizon Charity – Full-Stack Donation Web App
 
 A full-featured, scalable donation platform that bridges the gap between donors and charity administrators. Built with a modern tech stack, **Hope Horizon** focuses on transparency, real-time insights, and a seamless user experience for effective fundraising.
-![logo](https://github.com/user-attachments/assets/630a422d-251f-4c2e-a700-8d7244c78c73)
+![logo-removebg-preview](https://github.com/user-attachments/assets/f132ca47-e760-48a1-8199-6781426b8b3b)
+
 
 
 
@@ -64,11 +65,12 @@ A full-featured, scalable donation platform that bridges the gap between donors 
 ---
 
 ## 📸 Screenshots
-![Screenshot 2025-04-24 150631](https://github.com/user-attachments/assets/37277109-7074-40ce-86da-7852ed00e6db)
-![Screenshot 2025-04-24 150712](https://github.com/user-attachments/assets/f9a752de-d235-49d5-a75d-ba6dcc62b204)
-![Screenshot 2025-04-24 150750](https://github.com/user-attachments/assets/28e7b135-2d69-4082-9930-2512f5d8b290)
-![Screenshot 2025-04-24 150832](https://github.com/user-attachments/assets/e39e50bc-6650-448e-a9cf-9c6b92e3cfa4)
-![Screenshot 2025-04-24 150905](https://github.com/user-attachments/assets/ce690b37-03be-4659-ba29-ad1ceb1272e1)
+![Screenshot 2025-04-24 150712](https://github.com/user-attachments/assets/8e1c09de-953f-400b-9efb-3631d3411feb)
+![Screenshot 2025-04-24 150631](https://github.com/user-attachments/assets/791fbab4-1033-4030-82a1-14aef2d95e35)
+![Screenshot 2025-04-24 150750](https://github.com/user-attachments/assets/1be8b8ad-f14b-40bc-98b7-2d81132f429c)
+![Screenshot 2025-04-24 150905](https://github.com/user-attachments/assets/c8ab2d2d-fa65-42b6-b97b-f28e13f8471a)
+![Screenshot 2025-04-24 150832](https://github.com/user-attachments/assets/974d0ff2-87c6-4ab4-a3ab-1a96b7e08802)
+
 
 
 ---
