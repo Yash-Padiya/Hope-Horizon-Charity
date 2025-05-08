@@ -1,5 +1,3 @@
-Here's a complete, professional, and impactful `README.md` for your **Hope Horizon Charity – Full-Stack Donation Web App** project:
-
 ---
 
 # 🌟 Hope Horizon Charity – Full-Stack Donation Web App
