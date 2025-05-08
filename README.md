@@ -122,8 +122,8 @@ Interested in contributing? Feel free to fork the repo and submit a pull request
 
 ## 📫 Contact
 
-**Developer:** \Yash Padiya
-**Email:** yashpadiya287@gmail.com]mailto:yashpadiya287@gmail.com)
+**Developer:** Yash Padiya
+**Email:** yashpadiya287@gmail.com(mailto:yashpadiya287@gmail.com)
 **LinkedIn:** Yash Padiya(https://linkedin.com/in/yash-padiya)
 **GitHub:** Yash-Padiya(https://github.com/Yash-Padiya)
 
